@@ -1,6 +1,6 @@
 #ignore hashtag files
 decision_tree_hashtag.ipynb
 knn_hashtag.ipynb
-logist_regression_hashtag.ipynb
+logistic_regression_hashtag.ipynb
 linear_regression_hashtag.ipynb
 svv_hashtag.ipynb
