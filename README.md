@@ -15,7 +15,7 @@ Welcome to the Machine Learning Algorithms Repository! This repository is a coll
 To get started, clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/machine-learning-algorithms.git
+git clone https://github.com/felipedaniel1910/machine-learning-algorithms.git
 cd machine-learning-algorithms
 ```
 
